@@ -6,4 +6,4 @@ not implemented yet. We need to test that `ChargeUserApiHttpClient` receives the
 1. Add a unit test for `ChargeService`.
 2. Mock `ChargeUserApiHttpClient` and check it is called with an expected amount calculated from the parameters received 
 by `ChargeService`.
-`jkjkj`
+
